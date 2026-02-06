@@ -14,6 +14,8 @@ const DEFAULT_SPEED = 1.0;
 const WORD_SPREAD_X = 200;
 const WORD_SPREAD_Y = 150;
 
+console.log('hello')
+
 // particle
 class Particle {
   constructor(x, y) {
